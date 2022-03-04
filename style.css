@@ -1,0 +1,38 @@
+* {
+  margin-left: 0;
+  padding-left: 0;
+  color: black;
+}
+.landing{
+  background-color: rgb(193, 201, 216);
+  height: 100vh;
+  padding-top: 5rem;
+}
+
+.div1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.image{
+  width: 15rem;
+  border-radius: 1rem;
+  padding: 12px;
+  justify-content: center;
+  padding-left: 18px;
+}
+.heading{
+  font-size: 1.2rem;
+  font-family: "Lobster", "cursive";
+  padding-top: 2rem;
+  color: rgb(58, 58, 237);
+  font-weight: 100px;
+}
+.para{
+  color: grey;
+  text-align: center;
+  font-size: small;
+  font-family: "Montserrat","sans-serif";
+  
+}
